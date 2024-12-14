@@ -9,8 +9,8 @@ This project analyzes the Netflix dataset using Python and Pandas.
 - Visualization of key insights
 
 ## Repository Contents:
-- `Netflix_Data_Analysis.ipynb`: Jupyter notebook containing the full analysis.
-- `data/netflix_titles.csv`: Dataset used for this project.
+- `Netflix_Data_Analysis_with_Pandas_Individual_or_Team (2)`: Jupyter notebook containing the full analysis.
+- `netflix_titles.csv`: Dataset used for this project.
 
 ## How to Run:
 1. Clone the repository: `git clone https://github.com/TaegwonLeePSU/DS220-TaegwonLee`
